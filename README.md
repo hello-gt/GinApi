@@ -1,0 +1,2 @@
+# GinApi
+通过golang语言把所在公司主站业务Api重构，目的是为了更加的熟悉golang语言
